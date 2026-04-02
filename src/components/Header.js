@@ -727,5 +727,8 @@ const Header = () => {
     </div>
   );
 };
+<footer className="text-center mt-10 text-sm text-gray-500">
+  Built on Stellar 🚀 | View transactions on Stellar Explorer
+</footer>
 
 export default Header;
