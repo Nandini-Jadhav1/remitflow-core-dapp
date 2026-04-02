@@ -727,8 +727,23 @@ const Header = () => {
     </div>
   );
 };
-<footer className="text-center mt-10 text-sm text-gray-500">
-  Built on Stellar 🚀 | View transactions on Stellar Explorer
-</footer>
+{/* Footer */}
+<footer style={{
+  textAlign: "center",
+  padding: "20px",
+  color: "rgba(255,255,255,0.3)",
+  fontSize: "12px",
+  borderTop: "1px solid rgba(255,255,255,0.05)"
+}}>
+  Built on Stellar Testnet • RemitFlow 2025 •{" "}
+  <a
+    href="https://stellar.expert/explorer/testnet"
+    target="_blank"
+    rel="noreferrer"
+    style={{ color: "#a78bfa" }}
+  >
+    Stellar Explorer
+  </a>
+</footer>;
 
 export default Header;
