@@ -3,7 +3,8 @@
 > Instant international payments in 3-5 seconds with near-zero fees
 
 ## 🌐 Live Demo
-https://stellar-remitflow-cross-border-payments-m5h5344yz.vercel.app/
+https://stellar-remitflow-lrdhf6yam-nandini-jadhav1s-projects.vercel.app/
+
 
 ## 🎥 Demo Video
 [Watch Demo]https://www.loom.com/share/48c0f836b0ca4f318b314c9d92fe9331
